@@ -1,0 +1,46 @@
+.contenedor{
+     width:60%;
+  margin:auto;
+  overflow:hidden;
+  color:red;
+}
+
+.introduccion{
+     width:100%;
+     margin:auto;
+     overflow:hidden;
+}
+
+.contenedor_T{
+				width:40%;
+				margin:auto;
+				overflow:hidden;
+				color:blue;
+}
+
+.contenedor_P{
+				width:40%;
+				margin:auto;
+				overflow:hidden;
+				color:yellow;
+}
+
+.contenedor_I{
+				font:Arial;
+				color:green;
+				width:65%;
+				overflow:hidden;
+				margin:auto;
+}
+
+.contenedor_E{
+				width:45%;
+				overflow:hidden;
+				margin:auto;
+				color:grey;
+}
+
+.contenedor_TA{
+				color:blue;
+				font: Arial;
+}
